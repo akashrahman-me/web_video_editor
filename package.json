@@ -1,5 +1,6 @@
 {
   "name": "video_editor",
+  "description": "A Web based video editor. Whare you can edit videos in the browser.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
